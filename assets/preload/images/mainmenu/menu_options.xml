@@ -1,5 +1,7 @@
-<?xml version='1.0' encoding='utf-8'?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <TextureAtlas imagePath="menu_options.png">
-<SubTexture name="options basic0000" x="0" y="0" width="2560" height="1400" frameX="0" frameY="0" frameWidth="2560" frameHeight="1400" />
-<SubTexture name="options white0000" x="2560" y="0" width="2560" height="1400" frameX="0" frameY="0" frameWidth="2560" frameHeight="1400" />
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="options basic0000" x="0" y="0" width="489" height="116" pivotX="14.15" pivotY="11.95"/>
+	<SubTexture name="options white0000" x="0" y="118" width="602" height="157" pivotX="18.2" pivotY="23.95" frameX="-2" frameY="-1" frameWidth="610" frameHeight="163"/>
 </TextureAtlas>
